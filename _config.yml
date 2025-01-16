@@ -20,8 +20,8 @@ navigation:                # {파일, 제목, URL, 아이콘, 사이드바 아�
   - {file: "README.md"}
 
 external:                  # 소셜 링크가 있는 푸터를 표시합니다. 사용 가능한 아이콘은 fontawesome.com/icons를 참조하세요.
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:dev.rocket@kakao.com"}
+  - {title: Github, icon: github, url: "https://github.com/developer-rocket"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
